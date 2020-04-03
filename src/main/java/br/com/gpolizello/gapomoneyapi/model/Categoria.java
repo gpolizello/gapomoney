@@ -27,6 +27,4 @@ public class Categoria {
 	Long codigo;
 	
 	String nome;
-	
-	
 }
